@@ -15,5 +15,5 @@ particular RSS and instantly updates itself.
 
 ## Demo
 
-![Demo](./Photos/Demo.png)
+![Demo](./Photos/Demo.PNG)
 
