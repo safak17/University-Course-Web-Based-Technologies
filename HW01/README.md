@@ -4,7 +4,7 @@
 
 Implement a credit card verification. (REGEX)
 
-![](./Photos/Aim.png)
+![Aim](./Photos/Aim.PNG)
 
 ## Learned Tools & Technologies
 
@@ -12,5 +12,5 @@ Implement a credit card verification. (REGEX)
 
 ## Demo
 
-![Demo](./Photos/Demo.png)
+![Demo](./Photos/Demo.PNG)
 
