@@ -4,7 +4,7 @@
 
 Use RichTextEditor to show the web content like wordpress.
 
-![Aim](./Photos/Aim.png)
+![Aim](./Photos/Aim.PNG)
 
 ## Learned Tools & Technologies
 
